@@ -1,5 +1,4 @@
 <h1>Electron React Desktop App </h1> 
-<hr>
 <p> This is a Desktop App based on a boiler plate by Alex Devero. The boiler plate makes it easy to start developing an electron app with out having to do much set-up.
 </p>
 <h3> Motivation </h3>
