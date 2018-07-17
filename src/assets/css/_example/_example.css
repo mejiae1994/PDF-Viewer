@@ -5,3 +5,54 @@ h1 {
   font-size: 21px;
   font-weight: 200;
 }
+
+h4 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+img {
+  padding-top: 1px;
+}
+
+html, body {
+  margin: 0;
+  background-color: rgb(51, 51, 51);
+}
+
+input {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  display: block;
+  border-radius: 3px;
+  width: 30%;
+  border: 2px solid rgb(204, 122, 0);
+  font-size: 18px;
+  padding: .3rem;
+  margin: 10px;
+  text-align: center;
+}
+
+.filterNames {
+  background-color:  rgb(31, 31, 31);
+  width: 100%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  padding: 10px;
+}
+
+.grid-item {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  word-wrap: break-word;
+  text-align: center;
+  border-radius: 3px;
+  background-color: rgb(77, 77, 77);
+  color: white;
+  margin: 8px;
+}
+
+.grid-item:hover {
+  background-color: rgb(90, 90, 90);
+}

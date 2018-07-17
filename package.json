@@ -9,13 +9,8 @@
     "url": "https://github.com/alexdevero/electron-react-webpack-boilerplate.git"
   },
   "homepage": "",
-  "bugs": {
-    "url": "https://github.com/alexdevero/electron-react-webpack-boilerplate.git/issues"
-  },
   "author": {
-    "name": "Alex Devero",
-    "email": "deveroalex@gmail.com",
-    "url": "https://github.com/alexdevero"
+    "name": "Alex Devero of BoilerPlate and App author is Edison Mejia" 
   },
   "keywords": [
     "app",
@@ -43,7 +38,9 @@
     "postpackage": "electron-packager ./ --out=./builds"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "electron": "^2.0.3",
+    "image-search-google": "^1.0.10",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
   },
